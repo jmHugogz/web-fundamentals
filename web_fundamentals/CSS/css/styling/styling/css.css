@@ -1,0 +1,30 @@
+#head{
+        background-color: black;
+}
+
+.text1{
+        color: white;
+}
+
+.text2{
+        color:  blueviolet;
+}
+
+#center{ 
+        background-color: purple;
+}
+
+.Middletext{ 
+        color: white;
+        text-align: center;
+}
+
+.textlink{ 
+            color: black;
+            
+        }
+
+#footer{
+        background-color: turquoise;
+        text-align: end;
+}      
